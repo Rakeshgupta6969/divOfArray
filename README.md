@@ -1,1 +1,2 @@
 # divOfArray
+simple hashmap solution
